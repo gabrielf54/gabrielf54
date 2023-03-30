@@ -1,4 +1,6 @@
-### Oi, eu sou Gabriel Ferreira!
+### Oi, meu nome é Gabriel e estou iniciando minha carreira como desenvolvedor, atualmente tenho conhecimento no front-end, mas meu objetivo é me tornar um desenvolvedor Full-Stack.
+Tenho conhecimento em JavaScript, HTML e CSS.
+Também tive uma breve experiência com Jogos Digitais quando obtive conhecimentos de C# e Unity.
 
 
 
