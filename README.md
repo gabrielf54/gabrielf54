@@ -4,6 +4,11 @@ Tenho conhecimento em JavaScript, HTML e CSS.
 Também tive uma breve experiência com Jogos Digitais quando obtive conhecimentos de C# e Unity.
 
 
+### Projetos
+
+<a href="https://github.com/gabrielf54/Timer">Timer</a> <br>
+<a href="https://github.com/gabrielf54/formulario">Formulário Simples</a>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
