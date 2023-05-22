@@ -1,13 +1,17 @@
 ### Oi, meu nome é Gabriel!
-Estou iniciando minha carreira como desenvolvedor, atualmente tenho conhecimento no front-end, mas meu objetivo é me tornar um desenvolvedor Full-Stack.
-Tenho conhecimento em JavaScript, HTML e CSS.
-Também tive uma breve experiência com Jogos Digitais quando obtive conhecimentos de C# e Unity.
+* Sou estagiário de Desenvolvimento na Group Software.
+* Tenho conhecimentos em TypeScript, Angular, Ionic voltado para o front-end.<br>
+* Para o Back-end, Java, Spring Boot e API RestFul.<br>
+
 
 
 ### Projetos
 
-<a href="https://github.com/gabrielf54/Timer">Timer</a> <br>
-<a href="https://github.com/gabrielf54/formulario">Formulário Simples</a>
+* <a href="https://github.com/gabrielf54/Login-e-Cadastro-de-Usuarios">Login e Cadastro</a> <br>
+* <a href="https://github.com/gabrielf54/CursoIonic4">Aplicativo Curso Ionic</a>
+* <a href="https://github.com/gabrielf54/Banco">Banco</a>
+* <a href="https://github.com/gabrielf54/Mercado">Mercado</a> <br>
+
 
 
 <div style="display: inline_block"><br>
