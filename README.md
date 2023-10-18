@@ -1,11 +1,11 @@
-### Oi, meu nome é Gabriel!
-* Sou estagiário de Desenvolvimento na Group Software.
-* Tenho conhecimentos em TypeScript, Angular, Ionic voltado para o front-end.<br>
-* Para o Back-end, Java, Spring Boot e API RestFul.<br>
+### Hi, my name is Gabriel!
+* I am working at Group Software.
+* I have knowledge in TypeScript, Angular, Ionic focused on the front-end.<br>
+* For backend, Java, Spring Boot and RestFul API.<br>
 
 
 
-### Projetos
+### Projects
 
 * <a href="https://github.com/gabrielf54/Login-e-Cadastro-de-Usuarios">Login e Cadastro</a> <br>
 * <a href="https://github.com/gabrielf54/CursoIonic4">Aplicativo Curso Ionic</a>
