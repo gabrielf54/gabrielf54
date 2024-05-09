@@ -1,8 +1,9 @@
-### Hi, my name is Gabriel!
-* I am working at Group Software.
-* I have knowledge in TypeScript, Angular, Ionic focused on the front-end.<br>
-* For backend, Java, Spring Boot and RestFul API.<br>
+### Oi, meu nome é Gabriel! 😁
+* 🚀 Atualmente trabalho na Group Software. 
+* 💻 Possuo conhecimentos em Java, Spring Boot, Angular, Ionic, entre outras...
+* Este é um perfil acadêmico, onde trabalho nos meus projetos pessoais
 
+<br>
 
 <div align="center">
   <a href="https://github.com/gabrielf54">
