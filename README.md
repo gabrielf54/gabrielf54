@@ -12,6 +12,15 @@
 | ☸️ | Cache Redis compartilhado entre deployments no Kubernetes | Shared Redis cache across Kubernetes deployments |
 | 🎓 | Pós em Engenharia de IA e MLOps na PUC Minas (2026–2027) | Postgraduate in AI Engineering & MLOps at PUC Minas (2026–2027) |
 
+### 🚀 Projetos · Projects
+
+| | 🇧🇷 | 🇺🇸 |
+|---|---|---|
+| ⚽ [**Desafio da Massa**](https://desafiodamassa.com.br) | Jogos diários sobre a história do Galo: dois minutos por dia, com o resultado compartilhado no grupo | Daily trivia games about Atlético Mineiro's history: two minutes a day, results shared with your group |
+| 🎓 [**English Live AI**](https://www.englishlive-ai.com) | Professores criam exercícios de inglês com IA, aplicam ao vivo e acompanham os alunos com correção automática | Teachers create English exercises with AI, run them live and track students with automatic grading |
+
+<sub>Next.js · Cloudflare Workers · Supabase · OpenAI · Upstash Redis</sub>
+
 <div align="center">
   <img alt="TypeScript" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Node.js" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
